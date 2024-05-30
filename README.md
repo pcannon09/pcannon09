@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pcannon09
-- 👀 I’m interested in C++, C and Python
 
-I am the **co-founder of Aquin**!
+I am the **Co-Founder of Aquin**!
+Join Aquin now!
 
 [Aquin app](https://www.aquin.app/)
 
