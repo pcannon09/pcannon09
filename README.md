@@ -7,4 +7,4 @@ Join Aquin now!
 
 [Aquin Doc](https://aquin.app/)
 
-Developing the **Pcannon Utils Pack**!
+Developing the **Pcannon Utils Pack**, **Vim Terminal** and **IO Controller v2**!
