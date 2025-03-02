@@ -7,4 +7,4 @@ Join Aquin now!
 
 [Aquin Doc](https://aquin.app/)
 
-Developing the **Vim Terminal (VIMT)**!
+Developing **Notex**!
