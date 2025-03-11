@@ -3,8 +3,6 @@
 I am the **Co-Founder of Aquin**!
 Join Aquin now!
 
-[Aquin app](https://app.aquin.app/)
+https://aquin.app/
 
-[Aquin Doc](https://aquin.app/)
-
-Developing **Notex**!
+Developing **Terminex**, a TUI that has cool applications!
