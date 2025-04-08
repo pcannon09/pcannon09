@@ -5,4 +5,5 @@ Join Aquin now!
 
 https://aquin.app/
 
-Developing **Terminex**, a TUI that has cool applications!
+My project DOCS:
+https://pcannon09.github.io/docs
